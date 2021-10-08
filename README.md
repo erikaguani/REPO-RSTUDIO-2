@@ -1,1 +1,3 @@
-# REPO-RSTUDIO-2
+# this is my repo
+
+Hi!
